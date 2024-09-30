@@ -8,6 +8,7 @@ This website is used to show visulization of different searching algorithms like
 - Javascript
 - Bootstrap
 
-## Demo Vidio->
-![]()
-dcjusxha
+## Version control, Deployment & Hosting
+- Git
+- Github
+- Github Pages
